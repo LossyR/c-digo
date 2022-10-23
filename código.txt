@@ -1,0 +1,22 @@
+
+Var
+
+nome: caractere
+endereco: caractere
+cidade: caractere
+CPF: caractere
+RG: inteiro
+
+Início
+Escreva ("Digite seu nome: ")
+Leia (nome)
+Escreva ("Informe seu endereço: ")
+Leia (endereco)
+Escreva ("Cidade: ")
+Leia (cidade)
+Escreva ("CPF: ")
+Leia (CPF)
+Escreva ("RG: ")
+Leia (RG)
+
+Fimalgoritmo
